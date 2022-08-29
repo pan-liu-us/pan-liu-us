@@ -14,7 +14,9 @@ I am a full stack software engineer committed to producing inviting user interfa
 </p>
 
 <p align='left'>
-- 📍 Currently based in Irvine, CA 
+- 📫 us.panliu@outlook.com
+<br>
+- 📍 Currently based in Irvine, CA
 <br>
 - ✨ Looking for full stack job opportunities
 <br>
@@ -29,6 +31,8 @@ I am a full stack software engineer committed to producing inviting user interfa
 
 <p align='center'>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=pan-liu-us&theme=vue" alt="GitHub Streak"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=pan-liu-us&count_private=true&show_icons=true&theme=light" alt="PAN's GitHub stats">
 </p>
   
   
@@ -64,4 +68,7 @@ My Tech Stack:
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFD700?logo=firebase&logoColor=white&style=for-the-badge)
-
+![Python3](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+---
+[![](https://visitcount.itsvg.in/api?id=pan-liu-us&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
